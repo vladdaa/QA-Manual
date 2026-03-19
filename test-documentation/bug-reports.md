@@ -1,0 +1,9 @@
+# QA Portfolio – Bug Reports
+This document contains links to my Notion database with bug reports for various websites I tested:
+
+The Notion template is structured according to a **Jira-style workflow**, where each issue is created as it would be in a real development team.
+All bugs are documented with **severity and priority**, steps to reproduce, expected and actual results, and environment details,
+providing a realistic quality control workflow.
+
+## Bug Reports Database
+[Open Bug Reports in Notion] https://www.notion.so/Bug-Reports-b47d8243593e83f99edd0155d2cff9e7?source=copy_link
