@@ -9,7 +9,7 @@ Test Cases cover both Positive and Negative scenarios, including steps, expected
 
 
 ### Tested Website
-[SweetShop Demo](https://sweetshop.netlify.app/00efc23d-b605-4f31-b97b-6bb276de447e.html)
+[SweetShop Demo](https://sweetshop.netlify.app/sweets)
 
 I performed manual testing on SweetShop, covering main website functionality with structured test coverage.
 Testing included functional, exploratory, and UI/UX checks, for both valid and invalid user scenarios.
