@@ -9,7 +9,7 @@ providing a realistic quality control workflow.
 [Open Bug Reports in Notion](https://www.notion.so/Bug-Reports-b47d8243593e83f99edd0155d2cff9e7?source=copy_link)
 
 ### Tested Website
-[SweetShop Demo](https://sweetshop.netlify.app/00efc23d-b605-4f31-b97b-6bb276de447e.html)
+[SweetShop Demo](https://sweetshop.netlify.app/sweets)
 
 I performed **manual testing** on SweetShop, covering main website functionality with structured test coverage.  
 Testing included functional, exploratory, and UI/UX checks. 
